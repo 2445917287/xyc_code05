@@ -8,5 +8,6 @@ public class Test {
         System.out.println("idea分支Git_Test项目测试");
         System.out.println("添加一条语句，共2条");
         System.out.println("分支dev1添加一条语句，共3条");
+        System.out.println("分支dev1添加一条语句后合并到主分支，共4条");
     }
 }
